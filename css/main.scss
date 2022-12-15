@@ -24,7 +24,7 @@ $theme-colors: map-merge($theme-colors, $custom-color);
 
 
 $utilities: (
-  "rounded": (
+  "rounded": (  
     property: border-radius,
     class: rounded,
     values: (
